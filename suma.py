@@ -19,5 +19,5 @@ def main():
 main()
 assert suma(5,5) == 10
 assert resta(5,5) == 0
-assert multiplicacion(5,5) == 20
+assert multiplicacion(5,5) == 25
 assert division(5,5) == 5
